@@ -1,0 +1,13 @@
+pragma solidity ^0.8.0;
+
+contract ICO {
+
+     string public name;
+     
+     funciton ICO () public {
+     name = 'Democoin';
+     
+     }
+
+
+};
